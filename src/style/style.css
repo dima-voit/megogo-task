@@ -138,6 +138,7 @@ img {
 /* Section devices */
 .devices__img {
   position: relative;
+  padding-bottom: 2px;
 }
 
 .devices__img img {
