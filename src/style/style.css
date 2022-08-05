@@ -320,7 +320,7 @@ img {
 }
 
 @media (min-width: 1000px) {
-  .section--intro {
+  .intro {
     background-position: right 0;
   }
 }
